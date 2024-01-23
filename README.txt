@@ -1,4 +1,4 @@
-# :star:Sobre o Aplicativo
+# :star: Sobre o Aplicativo
 Este aplicativo é um Gerador de Senhas desenvolvido como um projeto para aprofundar meus conhecimentos em React Native. 
 O principal objetivo deste projeto é criar um aplicativo prático e útil, enquanto exploro as funcionalidades e capacidades do React Native.
 
@@ -47,4 +47,4 @@ Faça o Commit (git commit -m 'Add some Feature').
 Faça o Push da Branch (git push origin feature/AmazingFeature).
 Abra um Pull Request.
 
-![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
