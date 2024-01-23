@@ -1,10 +1,10 @@
-:star: #Sobre o Aplicativo
+:star: # Sobre o Aplicativo
 Este aplicativo é um Gerador de Senhas desenvolvido como um projeto para aprofundar meus conhecimentos em React Native. 
 O principal objetivo deste projeto é criar um aplicativo prático e útil, enquanto exploro as funcionalidades e capacidades do React Native.
 
 O app permite aos usuários gerar senhas  escolhendo a qtd de caractere total.
 
-:rocket: ##Começando
+:rocket: ## Começando
 Para começar a usar ou desenvolver o app em seu ambiente local, siga estas instruções:
 
 ###Clone o repositório:
