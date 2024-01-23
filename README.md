@@ -42,11 +42,11 @@ Integração de APIs nativas.
 🔦 Contribuições
 Contribuições são sempre bem-vindas! Para contribuir:
 
-Faça um Fork do projeto.
-Crie uma Branch para sua Feature (git checkout -b feature/Feature).
-Adicione suas mudanças (git add .).
-Faça o Commit (git commit -m 'Add some Feature').
-Faça o Push da Branch (git push origin feature/AmazingFeature).
+Faça um Fork do projeto. <br>
+Crie uma Branch para sua Feature (git checkout -b feature/Feature).<br>
+Adicione suas mudanças (git add .) <br>
+Faça o Commit (git commit -m 'Add some Feature'). <br>
+Faça o Push da Branch (git push origin feature/AmazingFeature). <br>
 Abra um Pull Request.
 
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
