@@ -47,4 +47,4 @@ Faça o Commit (git commit -m 'Add some Feature').
 Faça o Push da Branch (git push origin feature/AmazingFeature).
 Abra um Pull Request.
 
-![React Native Logo](https://reactnative.dev/img/header_logo.svg)
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
